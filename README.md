@@ -1,5 +1,5 @@
 # Weather-API
-A Python command-line tool that fetches real-time weather data for any city using the OpenWeatherMap API. Shows temperature, feels like, conditions, and humidity.
+A simple Python command-line tool that fetches real-time weather data for any city using the OpenWeatherMap API. Shows temperature, feels like, conditions, and humidity.
 ## Setup
 
 1. Go to openweathermap.org and create a free account
