@@ -24,7 +24,11 @@ A Python command-line tool that fetches real-time weather data for any city usin
 ## Example Output
 
 City: Athens
+
 Temperature: 28°C
+
 Feels like: 31°C
+
 Condition: clear sky
+
 Humidity: 45%
